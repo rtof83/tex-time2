@@ -1,7 +1,7 @@
-# template teste do time 2
+# Template Time 2
 
 
 ## Colaboradores:
 
--- [Edvaldo](https://github.com/edcabralc)
--- [Kaue](https://github.com/kauecardinalli)
+- [Edvaldo](https://github.com/edcabralc)
+- [Kaue](https://github.com/kauecardinalli)
