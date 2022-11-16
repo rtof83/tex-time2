@@ -7,6 +7,7 @@
 - [Renato Sousa](https://github.com/Notare)
 - [Carolina](https://github.com/bastoscarolina)
 - [Guilherme Ferreira](https://github.com/devguiferreira)
+- [Gustavo Steiner](https://github.com/GustaSteiner)
 
 
 ## Tecnologias
