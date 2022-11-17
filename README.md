@@ -8,6 +8,7 @@
 - [Carolina](https://github.com/bastoscarolina)
 - [Guilherme Ferreira](https://github.com/devguiferreira)
 - [Gustavo Steiner](https://github.com/GustaSteiner)
+- [Edlaine](https://github.com/edlainex)
 
 
 ## Tecnologias
