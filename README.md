@@ -8,6 +8,7 @@
 - [Carolina](https://github.com/bastoscarolina)
 - [Guilherme Ferreira](https://github.com/devguiferreira)
 - [Gustavo Steiner](https://github.com/GustaSteiner)
+- [Matheus Vincius](https://gtihub.com/MatheusVinicius01)
 - [Edlaine](https://github.com/edlainex)
 
 
