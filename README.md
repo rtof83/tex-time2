@@ -3,6 +3,7 @@
 ## Colaboradores:
 
 - [Edvaldo](https://github.com/edcabralc)
+- [Renato Tadeu](https://github.com/rtof83)
 - [Kaue](https://github.com/kauecardinalli)
 - [Renato Sousa](https://github.com/Notare)
 - [Carolina](https://github.com/bastoscarolina)
