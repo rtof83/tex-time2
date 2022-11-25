@@ -54,3 +54,22 @@ Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Prod
 | Descritivo                 | Usuário visitante deverá se cadastrar para obter cupons de descontos, visualizar histórico, favoritos e indicações.                                                                                        |
 | Justificativa              | Mediante cadastro o cliente terá benefícios e poderá acompanhar suas ações no aplicativo.                                                                                                                  |
 | Solução                    | .1 Usuário preenche os campos requeridos pelo aplicativo (nome, e-mail, senha) Sistema irá validar os dados do formulário - Senha errada recuperar senha Sistema verifica se o usuário já está cadastrado. |
+
+***
+
+# Sprint Backlog
+
+## Projeto: Sistema de Cupons
+
+***
+
+### Dashboard
+
+| Tarefa                 | Dev | Status | Estimativa | Pontos |
+| ---------------------- | --- | ------ | ---------- | ------ |
+| Formulário de Cadastro |     |        |            |        |
+| Login Redes Sociais    |     |        |            |        |
+| Painel Histórico       |     |        |            |        |
+| Painel Favoritos       |     |        |            |        |
+
+***
