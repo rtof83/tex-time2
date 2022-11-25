@@ -2,9 +2,9 @@
 
 ## Product Backlog
 
-- [estrutura Trello](https://trello.com/b/J9xP1KxS/app-cupons-tex-02)
+- [Estrutura Trello](https://trello.com/b/J9xP1KxS/app-cupons-tex-02)
 
-- [descritivo](https://docs.google.com/document/d/1ldnP34DRu6awOdTN4513y3yWEWiIRjlY38bhmCazgUU/edit)
+- [Descritivo](https://docs.google.com/document/d/1ldnP34DRu6awOdTN4513y3yWEWiIRjlY38bhmCazgUU/edit)
 
 # Visão Geral
 
@@ -12,19 +12,18 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 
 # Desafio
 
-Desafio
-Criar um documento EPIC que descreva todos os ítens de funcionalidade possíveis na visão do Product Owner.
-Criar um documento Product Backlog que descreva todos os ítens (funcionalidades) por ordem de relevância na visão do Product Owner.
-Criar um documento User Stories que descreva as estórias de cada item do Product Backlog
-Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Product Backlog, a serem desenvolvidos numa primeira Sprint.
+* Criar um documento EPIC que descreva todos os ítens de funcionalidade possíveis na visão do Product Owner.
+* Criar um documento Product Backlog que descreva todos os ítens (funcionalidades) por ordem de relevância na visão do Product Owner.
+* Criar um documento User Stories que descreva as estórias de cada item do Product Backlog
+* Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Product Backlog, a serem desenvolvidos numa primeira Sprint.
 
 # Epic
 
-- Quero obter cupons de descontos no aplicativo.
-- Quero salvar cupons para poder aplicá-los no futuro
-- Quero poder gerenciar minha lista de cupons
-- Quero poder filtrar meus cupons por data, categoria, lojas, produtos
-- Quero poder compartilhar vouchers com outros usuários
+- Eu como usuário quero obter cupons de descontos no aplicativo de forma prática para realizar compras de produtos diversos.
+- Eu como usuário quero poder salvar os cupons para utilizar em uma futura compra e pagar mais barato.
+- Eu como usuário quero poder gerenciar minha lista de cupons para saber as informações de uso, validade e desconto.
+- Eu como usuário quero poder filtrar meus cupons por data, categoria, lojas, produtos.
+- Eu como usuário quero poder compartilhar vouchers com outros usuários.
 
 # Product Backlog
 
@@ -51,21 +50,13 @@ Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Prod
 
 | Dashboard                  |                                                                                                                                                                                                            |     |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Story #2 - Cadastro Básico |
+| Story #1 - Cadastro Básico |
 | Descritivo                 | Usuário visitante deverá se cadastrar para obter cupons de descontos, visualizar histórico, favoritos e indicações.                                                                                        |
 | Justificativa              | Mediante cadastro o cliente terá benefícios e poderá acompanhar suas ações no aplicativo.                                                                                                                  |
 | Solução                    | .1 Usuário preenche os campos requeridos pelo aplicativo (nome, e-mail, senha) Sistema irá validar os dados do formulário - Senha errada recuperar senha Sistema verifica se o usuário já está cadastrado. |
 
-# User Stories
+***
 
-| Dashboard                  |                                                                                                                                                                                                            |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Story #2 - Cadastro Básico |                                                                                                                                                                                                            |
-| Descritivo                 | Usuário visitante deverá se cadastrar para obter cupons de descontos, visualizar histórico, favoritos e indicações.                                                                                        |
-| Justificativa              | Mediante cadastro o cliente terá benefícios e poderá acompanhar suas ações no aplicativo.                                                                                                                  |
-| Solução                    | .1 Usuário preenche os campos requeridos pelo aplicativo (nome, e-mail, senha) Sistema irá validar os dados do formulário - Senha errada recuperar senha Sistema verifica se o usuário já está cadastrado. |
-
-## Critérios de Aceite
 
 | Dashboard                    |                                                                                                                                   |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -77,16 +68,19 @@ Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Prod
 ***
 
 
-
-| Dashboard                       |                                                                             |
-| ------------------------------- | --------------------------------------------------------------------------- |
-| Story #3 - Painéis do Dashboard |                                                                             |
-| Descritivo                      | Usuário cadastrado terá acesso a um painel para poder gerenciar suas ações. |
-| Justificativa                   | No painel o usuário poderá acessar o perfil, histórico de cupons, favoritos |
-| Solução                         | Passo a passo do painel                                                     |
+| Dashboard                       |                                                                                                     |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------|
+| Story #3 - Painéis do Dashboard |                                                                                                     |
+| Descritivo                      | Usuário cadastrado terá acesso a um painel administrativo.                                          |
+| Justificativa                   | No painel o usuário poderá acessar os dados do seu perfil, histórico de cupons, cupons favoritos    |
+| Solução                         | 1. Usuário preenche os campos requeridos pelo aplicativo (nome, e-mail, senha)                      |
+|                                 | 2. O Sistema irá validar os dados do formulário, se positivo será redirecionado para o painel       |
+|                                 |    administrativo. Caso contrário, o usuário deverá corrigir os dados inseridos e tentar novamente. |
+|                                 | 3. Se o problema for a senha, o usuário podera recupera-la através do link 'recuperar senha' onde   |
+|                                 |    deverá inserir o e-mail para receber a notificação e realizar a ação.                            |
+|                                 | 4. Dentro do painel administrativo o usuário poderá acessar os menus perfil, histórico, favoritos   |
 
 ***
-
 
 
 | Pop-up                     |                                                                                                                                              |
@@ -97,7 +91,6 @@ Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Prod
 | Solução                    | Passo a passo da pop-up                                                                                                                      |
 
 ***
-
 
 
 | Cupons                              |                                                                                                                                             |
@@ -116,12 +109,12 @@ Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Prod
 
 ### Dashboard
 
-| Tarefa                 | Dev | Status | Estimativa | Pontos |
-| ---------------------- | --- | ------ | ---------- | ------ |
-| Formulário de Cadastro |     |        |            |        |
-| Login Redes Sociais    |     |        |            |        |
-| Painel Histórico       |     |        |            |        |
-| Painel Favoritos       |     |        |            |        |
+| Tarefa                 | Dev       | Status | Estimativa | Pontos |
+| ---------------------- | ----------| ------ | ---------- | ------ |
+| Formulário de Cadastro | Guilherme |        |            |        |
+| Login Redes Sociais    |           |        |            |        |
+| Painel Histórico       |           |        |            |        |
+| Painel Favoritos       |           |        |            |        |
 
 ***
 ### Pop-up
