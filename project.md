@@ -55,6 +55,37 @@ Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Prod
 | Justificativa              | Mediante cadastro o cliente terá benefícios e poderá acompanhar suas ações no aplicativo.                                                                                                                  |
 | Solução                    | .1 Usuário preenche os campos requeridos pelo aplicativo (nome, e-mail, senha) Sistema irá validar os dados do formulário - Senha errada recuperar senha Sistema verifica se o usuário já está cadastrado. |
 
+## Critérios de Aceite
+
+| Dashboard                  |       |
+|----|-----|
+|Story #2 - Campo de Pesquisa|
+|Descritivo| Usuário visitante/cadastrado poderá filtrar os cupons através da barra de pesquisa por nome, categoria, lojas, produtos
+|Justificativa| No painel de usuário, assim como na home do aplicativo, o usuário poderá filtrar os cupons para obter cupons de lojas específicas
+|Solução | Passo a passo da barra
+
+
+| Dashboard                  |       |
+|----|----|
+|Story #3 - Painéis do Dashboard|
+|Descritivo| Usuário cadastrado terá acesso a um painel para poder gerenciar suas ações.
+|Justificativa| No painel o usuário poderá acessar o perfil, histórico de cupons, favoritos
+|Solução| Passo a passo do painel
+
+| Pop-up                  |       |
+|----|----|
+|Story #1 - Cadastro Básico|
+|Descritivo| O usuário visitante terá a opção de se cadastrar na newsletter para receber cupons por e-mail.
+|Justificativa| O usuário que se cadastrar na newsletter além de receber as últimas notícias, receberá 1 cupom de desconto por semana num total de 4 por mês
+|Solução| Passo a passo da pop-up
+
+| Cupons                  |       |
+|----|----|
+|Story #1 - Indicar Amigos (Voucher)|
+|Descritivo| O usuário cadastrado poderá compartilhar um voucher com amigos e a cada amigo que realizar uma compra o usuário recebera um cupom em troca.
+|Justificativa|
+|Solução| Passo a passo da indicação
+
 ***
 
 # Sprint Backlog
@@ -90,12 +121,12 @@ Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Prod
 ***
 ### Feature #2 - Campos de Pesquisa
 
-| Tarefa                 | Dev | Status | Estimativa | Pontos |
-| ---------------------- | --- | ------ | ---------- | ------ |
-| Barra de Pesquisa      |     |        |            |        |
-| Filtro Categoria       |     |        |            |        |
-| Filtro Loja            |     |        |            |        |
-| Filtro Produto         |     |        |            |        |
+| Tarefa                 | Dev        | Status | Estimativa | Pontos |
+| ---------------------- | -----------| ------ | ---------- | ------ |
+| Barra de Pesquisa      | Edvaldo    |        |            |        |
+| Filtro Categoria       | Edvaldo    |        |            |        |
+| Filtro Loja            | Edvaldo    |        |            |        |
+| Filtro Produto         | Edvaldo    |        |            |        |
 
 ***
 ### Feature #3 - Voucher Indicação
