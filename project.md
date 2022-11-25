@@ -61,7 +61,6 @@ Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Prod
 
 ## Projeto: Sistema de Cupons
 
-***
 
 ### Dashboard
 
@@ -73,3 +72,37 @@ Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Prod
 | Painel Favoritos       |     |        |            |        |
 
 ***
+### Pop-up
+
+| Tarefa                 | Dev | Status | Estimativa | Pontos |
+| ---------------------- | --- | ------ | ---------- | ------ |
+| Formulário de Cadastro |     |        |            |        |
+
+***
+### Feature #1 - Favoritos
+
+| Tarefa               | Dev  | Status | Estimativa | Pontos |
+| -------------------- | ---- | ------ | ---------- | ------ |
+| Lojas Favoritas      | Kaue |        |            |        |
+| Notificação Cupons   | Kaue |        |            |        |
+| Notificação Validade | Kaue |        |            |        |
+
+***
+### Feature #2 - Campos de Pesquisa
+
+| Tarefa                 | Dev | Status | Estimativa | Pontos |
+| ---------------------- | --- | ------ | ---------- | ------ |
+| Formulário de Cadastro |     |        |            |        |
+| Login Redes Sociais    |     |        |            |        |
+| Painel Histórico       |     |        |            |        |
+| Painel Favoritos       |     |        |            |        |
+
+***
+### Feature #3 - Voucher Indicação
+
+| Tarefa                 | Dev | Status | Estimativa | Pontos |
+| ---------------------- | --- | ------ | ---------- | ------ |
+| Formulário de Cadastro |     |        |            |        |
+| Login Redes Sociais    |     |        |            |        |
+| Painel Histórico       |     |        |            |        |
+| Painel Favoritos       |     |        |            |        |
