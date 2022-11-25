@@ -20,12 +20,11 @@ Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Prod
 
 # Epic
 
-- Eu como usuário quero obter cupons de descontos no aplicativo de forma prática para realizar compras de produtos diversos.
-- Eu como usuário quero poder salvar os cupons para utilizar em uma futura compra e pagar mais barato.
-- Eu como usuário quero poder gerenciar minha lista de cupons para saber as informações de uso, validade e desconto.
-- Eu como usuário quero poder filtrar meus cupons por data, categoria, lojas, produtos
-- Eu como usuário quero poder compartilhar vouchers com outros usuários
-
+- Quero obter cupons de descontos no aplicativo.
+- Quero salvar cupons para poder aplicá-los no futuro
+- Quero poder gerenciar minha lista de cupons
+- Quero poder filtrar meus cupons por data, categoria, lojas, produtos
+- Quero poder compartilhar vouchers com outros usuários
 
 # Product Backlog
 
@@ -93,17 +92,17 @@ Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Prod
 
 | Tarefa                 | Dev | Status | Estimativa | Pontos |
 | ---------------------- | --- | ------ | ---------- | ------ |
-| Formulário de Cadastro |     |        |            |        |
-| Login Redes Sociais    |     |        |            |        |
-| Painel Histórico       |     |        |            |        |
-| Painel Favoritos       |     |        |            |        |
+| Barra de Pesquisa      |     |        |            |        |
+| Filtro Categoria       |     |        |            |        |
+| Filtro Loja            |     |        |            |        |
+| Filtro Produto         |     |        |            |        |
 
 ***
 ### Feature #3 - Voucher Indicação
 
 | Tarefa                 | Dev | Status | Estimativa | Pontos |
 | ---------------------- | --- | ------ | ---------- | ------ |
-| Formulário de Cadastro |     |        |            |        |
-| Login Redes Sociais    |     |        |            |        |
-| Painel Histórico       |     |        |            |        |
-| Painel Favoritos       |     |        |            |        |
+| Link Indicação         |     |        |            |        |
+| Link Personalizado     |     |        |            |        |
+| Redes Sociais          |     |        |            |        |
+
