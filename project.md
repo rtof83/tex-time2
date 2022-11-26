@@ -53,7 +53,7 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 | Story #1 - Cadastro Básico |
 | Descritivo                 | Usuário visitante deverá se cadastrar para obter cupons de descontos, visualizar histórico, favoritos e indicações.                                                                                        |
 | Justificativa              | Mediante cadastro o cliente terá benefícios e poderá acompanhar suas ações no aplicativo.                                                                                                                  |
-| Solução                    | .1 Usuário preenche os campos requeridos pelo aplicativo (nome, e-mail, senha) Sistema irá validar os dados do formulário - Senha errada recuperar senha Sistema verifica se o usuário já está cadastrado. |
+| Solução                    | 1. Usuário preenche os campos requeridos pelo aplicativo (nome, e-mail, senha) Sistema irá validar os dados do formulário - Senha errada recuperar senha Sistema verifica se o usuário já está cadastrado. |
 
 ***
 
@@ -63,7 +63,10 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 | Story #2 - Campo de Pesquisa |                                                                                                                                   |
 | Descritivo                   | Usuário visitante/cadastrado poderá filtrar os cupons através da barra de pesquisa por nome, categoria, lojas, produtos           |
 | Justificativa                | No painel de usuário, assim como na home do aplicativo, o usuário poderá filtrar os cupons para obter cupons de lojas específicas |
-| Solução                      | Passo a passo da barra                                                                                                            |
+| Solução                      | 1. Passo a passo da barra                                                                                                         |
+|                              | 2. O campo de pesquisa é colocado na barra superior                                                                               |
+|                              | 3. O campo contém um espaço reservado com um texto cinza: “ Digite o nome da loja ”. O espaço reservado desaparece quando o usuário começa a digitar.                                                                                                                                                  |
+|                              | 4. A pesquisa não suporta símbolos especiais ( caracteres ). Se o usuário digitou um símbolo especial, mostre a mensagem de aviso: “ A entrada de pesquisa não pode conter símbolos especiais. ”                   |                                                                                                            
 
 ***
 
