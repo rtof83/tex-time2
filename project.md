@@ -12,7 +12,7 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 
 # Desafio
 
-* Criar um documento EPIC que descreva todos os ítens de funcionalidade possíveis na visão do Product Owner.
+* Criar um documento EPIC que descreva todos os itens de funcionalidade possíveis na visão do Product Owner.
 * Criar um documento Product Backlog que descreva todos os ítens (funcionalidades) por ordem de relevância na visão do Product Owner.
 * Criar um documento User Stories que descreva as estórias de cada item do Product Backlog
 * Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Product Backlog, a serem desenvolvidos numa primeira Sprint.
@@ -100,8 +100,8 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Story #1 - Indicar Amigos (Voucher) |                                                                                                                                             |
 | Descritivo                          | O usuário cadastrado poderá compartilhar um voucher com amigos e a cada amigo que realizar uma compra o usuário recebera um cupom em troca. |
-| Justificativa                       |                                                                                                                                             |
-| Solução                             | Passo a passo da indicação                                                                                                                  |
+| Justificativa                       | Motivar o usuário por meio de um sistema onde o mesmo ganha uma porcentagem de desconto/voucher caso indique o app para outra pessoa                                                                                                                                            |
+| Solução                             | Usuário envia um link ou compartilha o app para outra pessoa por meio de redes sociais e o sistema valida se a outra pessoa se cadastrou no app, se sim, o usuário que indicou ganha uma porcentagem de desconto/voucher                                                                                                                   |
 
 ***
 
@@ -150,7 +150,7 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 
 | Tarefa                 | Dev | Status | Estimativa | Pontos |
 | ---------------------- | --- | ------ | ---------- | ------ |
-| Link Indicação         |     |        |            |        |
+| Link Indicação         | Renato Sousa    |        |            |        |
 | Link Personalizado     |     |        |            |        |
 | Redes Sociais          |     |        |            |        |
 
