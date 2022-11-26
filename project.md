@@ -104,6 +104,14 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 | Solução                             | Usuário envia um link ou compartilha o app para outra pessoa por meio de redes sociais e o sistema valida se a outra pessoa se cadastrou no app, se sim, o usuário que indicou ganha uma porcentagem de desconto/voucher                                                                                                                   |
 
 ***
+| Cupons                              |                                                                                                                                             |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Story #2 - Notificação sobre a validade dos cupons  |                                                                                                                                             |
+| Descritivo                          | O usuário cadastrado receberá uma notificação sobre os cupons que estão com a data de vencimento próxima. |
+| Justificativa                       | Informar o usuário por meio do sistema quais cupons estão com a data de validade próxima para que ele não perca os descontos oferecidos pelo cupom.                                                                                                                                            |
+| Solução                             | Ao entrar na área destinada aos cupons, o usuário terá uma seção com os cupons com validade inferior a 15 dias.                                                                                                                   |
+
+***
 
 # Sprint Backlog
 
