@@ -40,6 +40,7 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 ## Cupons
 
 - Indicar Amigos (voucher)
+- Regra do voucher
 - Notificação sobre a validade dos cupons
 - Favoritar cupons
 - Mês do aniversário ganha cupons
@@ -103,6 +104,13 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 | Justificativa                       | Motivar o usuário por meio de um sistema onde o mesmo ganha uma porcentagem de desconto/voucher caso indique o app para outra pessoa                                                                                                                                            |
 | Solução                             | Usuário envia um link ou compartilha o app para outra pessoa por meio de redes sociais e o sistema valida se a outra pessoa se cadastrou no app, se sim, o usuário que indicou ganha uma porcentagem de desconto/voucher                                                                                                                   |
 
+| Cupons                              |                                                                                                                                             |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Story #2 - Regra do voucher |                                                                                                                                             |
+| Descritivo                          | O usuário pode trocar uma certa quantia de cupons de desconto para um voucher com valor cheio |
+| Justificativa                       | Motivar o usuário para conseguir fazer compras que possuem um valor mais alto |
+| Solução                             | O usuário salva os cupons que quer trocar em um sistema específico dentro do app, o sistema valida se os cupons salvos podem ser trocados, se sim, o usuário ganha um código para ser usado como voucher, se não, o sistema retorna com uma mensagem dizendo "os cupons selecionados não podem ser trocados por voucher" |
+
 ***
 
 # Sprint Backlog
@@ -149,8 +157,9 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 ### Feature #3 - Voucher Indicação
 
 | Tarefa                 | Dev | Status | Estimativa | Pontos |
-| ---------------------- | --- | ------ | ---------- | ------ |
-| Link Indicação         | Renato Sousa    |        |            |        |
-| Link Personalizado     |     |        |            |        |
-| Redes Sociais          |     |        |            |        |
+| ---------------------- | ------------ | ------ | ---------- | ------ |
+| Link Indicação         | Renato Sousa |        |            |        |
+| Regra do voucher       | Renato Sousa |        |            |        |
+| Link Personalizado     |              |        |            |        |
+| Redes Sociais          |              |        |            |        |
 
