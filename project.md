@@ -114,7 +114,7 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 ***
 | Cupons                              |                                                                                                                                             |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Story #2 - Notificação sobre a validade dos cupons  |                                                                                                                                             |
+| Story #3 - Notificação sobre a validade dos cupons  |                                                                                                                                             |
 | Descritivo                          | O usuário cadastrado receberá uma notificação sobre os cupons que estão com a data de vencimento próxima. |
 | Justificativa                       | Informar o usuário por meio do sistema quais cupons estão com a data de validade próxima para que ele não perca os descontos oferecidos pelo cupom.                                                                                                                                            |
 | Solução                             | Ao entrar na área destinada aos cupons, o usuário terá uma seção com os cupons com validade inferior a 15 dias.                                                                                                                   |
