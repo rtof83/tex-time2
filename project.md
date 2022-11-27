@@ -62,8 +62,8 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo a funcional
 
 # User Stories
 
-| Dashboard                  |                                                                                                                                                                                                            |     |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Dashboard                    |                                                                                                                                   |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Story #1 - Cadastro Básico |
 | Descritivo                 | Usuário visitante deverá se cadastrar para obter cupons de descontos, visualizar histórico, favoritos e indicações.                                                                                        |
 | Justificativa              | Mediante cadastro o cliente terá benefícios e poderá acompanhar suas ações no aplicativo.                                                                                                                  |
@@ -112,14 +112,13 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo a funcional
 
 ***
 
-
 | Cupons                              |                                                                                                                                             |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Story #1 - Indicar Amigos (Voucher) |                                                                                                                                             |
 | Descritivo                          | O usuário cadastrado poderá compartilhar um voucher com amigos e a cada amigo que realizar uma compra o usuário recebera um cupom em troca. |
 | Justificativa                       | Motivar o usuário por meio de um sistema onde o mesmo ganha uma porcentagem de desconto/voucher caso indique o app para outra pessoa                                                                                                                                            |
 | Solução                             | Usuário envia um link ou compartilha o app para outra pessoa por meio de redes sociais e o sistema valida se a outra pessoa se cadastrou no app, se sim, o usuário que indicou ganha uma porcentagem de desconto/voucher                                                                                                                   |
-
+***
 | Cupons                              |                                                                                                                                             |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Story #2 - Regra do voucher |                                                                                                                                             |
