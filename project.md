@@ -6,9 +6,17 @@
 
 - [Descritivo](https://docs.google.com/document/d/1ldnP34DRu6awOdTN4513y3yWEWiIRjlY38bhmCazgUU/edit)
 
+&nbsp;
+
+---
+
+&nbsp;
+
 # Visão Geral
 
-Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketplace a funcionalidade de cupons de descontos para que seus clientes possam obter descontos nos produtos adquiridos através das lojas parceiras.
+Adalberto, CEO da empresa X, necessita implementar no seu aplicativo a funcionalidade de cupons de descontos para que seus clientes possam obter descontos nos produtos adquiridos através das lojas parceiras.
+
+&nbsp;
 
 # Desafio
 
@@ -17,6 +25,8 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 * Criar um documento User Stories que descreva as estórias de cada item do Product Backlog
 * Criar um documento Sprint Backlog que defina os itens relevantes, vindos do Product Backlog, a serem desenvolvidos numa primeira Sprint.
 
+&nbsp;
+
 # Epic
 
 - Eu como usuário quero obter cupons de descontos no aplicativo de forma prática para realizar compras de produtos diversos.
@@ -24,6 +34,8 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 - Eu como usuário quero poder gerenciar minha lista de cupons para saber as informações de uso, validade e desconto.
 - Eu como usuário quero poder filtrar meus cupons por data, categoria, lojas, produtos.
 - Eu como usuário quero poder compartilhar vouchers com outros usuários.
+
+&nbsp;
 
 # Product Backlog
 
@@ -46,6 +58,7 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 - Mês do aniversário ganha cupons
 - Trocar moedas por cupons
 
+&nbsp;
 
 # User Stories
 
@@ -54,7 +67,10 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 | Story #1 - Cadastro Básico |
 | Descritivo                 | Usuário visitante deverá se cadastrar para obter cupons de descontos, visualizar histórico, favoritos e indicações.                                                                                        |
 | Justificativa              | Mediante cadastro o cliente terá benefícios e poderá acompanhar suas ações no aplicativo.                                                                                                                  |
-| Solução                    | 1. Usuário preenche os campos requeridos pelo aplicativo (nome, e-mail, senha) Sistema irá validar os dados do formulário - Senha errada recuperar senha Sistema verifica se o usuário já está cadastrado. |
+| Solução                      | 1. Usuário preenche os campos requeridos pelo aplicativo (nome, e-mail, senha).                                                                                                         |
+|                              | 2. Sistema irá validar os dados do formulário.                                                                               |
+|                              | 3. Senha incorreta e recuperar senha.                                                                                                                                                  |
+|                              | 4. Sistema verifica se o usuário já está cadastrado.                   |
 
 ***
 
@@ -74,7 +90,7 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 
 | Dashboard                       |                                                                                                     |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------|
-| Story #3 - Painéis do Dashboard |                                                                                                     |
+| Story #3 - Painéis |                                                                                                     |
 | Descritivo                      | Usuário cadastrado terá acesso a um painel administrativo.                                          |
 | Justificativa                   | No painel o usuário poderá acessar os dados do seu perfil, histórico de cupons, cupons favoritos    |
 | Solução                         | 1. Usuário preenche os campos requeridos pelo aplicativo (nome, e-mail, senha)                      |
@@ -119,12 +135,11 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 | Justificativa                       | Informar o usuário por meio do sistema quais cupons estão com a data de validade próxima para que ele não perca os descontos oferecidos pelo cupom.                                                                                                                                            |
 | Solução                             | Ao entrar na área destinada aos cupons, o usuário terá uma seção com os cupons com validade inferior a 15 dias.                                                                                                                   |
 
-***
+&nbsp;
 
 # Sprint Backlog
 
 ## Projeto: Sistema de Cupons
-
 
 ### Dashboard
 
@@ -164,10 +179,9 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 ***
 ### Feature #3 - Voucher Indicação
 
-| Tarefa                 | Dev | Status | Estimativa | Pontos |
-| ---------------------- | ------------ | ------ | ---------- | ------ |
-| Link Indicação         | Renato Sousa |        |            |        |
-| Regra do voucher       | Renato Sousa |        |            |        |
-| Link Personalizado     |              |        |            |        |
-| Redes Sociais          |              |        |            |        |
-
+| Tarefa                 | Dev           | Status | Estimativa | Pontos     |
+| ---------------------- | ------------- | ------ | ---------- | ---------- |
+| Link Indicação         | Renato Sousa  |        |            |            |
+| Regra do voucher       | Renato Sousa  |        |            |            |
+| Link Personalizado     | Renato Tadeu  |        |            |            |
+| Redes Sociais          | Renato Tadeu  |        |            |            |
