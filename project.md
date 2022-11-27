@@ -112,6 +112,14 @@ Adalberto, CEO da empresa X, necessita implementar no seu aplicativo de marketpl
 | Solução                             | O usuário salva os cupons que quer trocar em um sistema específico dentro do app, o sistema valida se os cupons salvos podem ser trocados, se sim, o usuário ganha um código para ser usado como voucher, se não, o sistema retorna com uma mensagem dizendo "os cupons selecionados não podem ser trocados por voucher" |
 
 ***
+| Cupons                              |                                                                                                                                             |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Story #3 - Notificação sobre a validade dos cupons  |                                                                                                                                             |
+| Descritivo                          | O usuário cadastrado receberá uma notificação sobre os cupons que estão com a data de vencimento próxima. |
+| Justificativa                       | Informar o usuário por meio do sistema quais cupons estão com a data de validade próxima para que ele não perca os descontos oferecidos pelo cupom.                                                                                                                                            |
+| Solução                             | Ao entrar na área destinada aos cupons, o usuário terá uma seção com os cupons com validade inferior a 15 dias.                                                                                                                   |
+
+***
 
 # Sprint Backlog
 
