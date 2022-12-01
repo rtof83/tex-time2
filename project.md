@@ -12,6 +12,8 @@
 
 - [Roteiro Apresentação (modelo)](https://github.com/rtof83/tex-time2/blob/main/files/Roteiro-Apresentacao.pdf)
 
+- [Apresentação](https://docs.google.com/presentation/d/1EPY5Xbut3-CbFTXr7oPY2WVc2SuIuk0rr0Kw8OuzB5I/edit#slide=id.p)
+
 &nbsp;
 
 ---
