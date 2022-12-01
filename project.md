@@ -10,6 +10,8 @@
 
 - [Figma](https://www.figma.com/team_invite/redeem/lDA3vcrSIdcS8eqz18Vxes)
 
+- [Roteiro Apresentação (modelo)](https://github.com/rtof83/tex-time2/blob/main/files/Roteiro-Apresentacao.pdf)
+
 &nbsp;
 
 ---
