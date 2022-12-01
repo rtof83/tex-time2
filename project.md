@@ -8,6 +8,8 @@
 
 - [Mapa de Empatia](https://drive.google.com/drive/folders/1EJPQFSgj7BTso8r5jv6O8IuPC2nihPWJ)
 
+- [Figma](https://www.figma.com/team_invite/redeem/lDA3vcrSIdcS8eqz18Vxes)
+
 &nbsp;
 
 ---
