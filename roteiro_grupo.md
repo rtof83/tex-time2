@@ -67,7 +67,7 @@
 
 - apresentação do roteiro:
   - o que será apresentado a seguir;
-  - quais conceitos técnicos foram utilizados
+  - quais conceitos técnicos foram utilizados;
   - o problema do cliente (Adalberto);
 
 - personas;
