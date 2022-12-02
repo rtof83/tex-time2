@@ -17,12 +17,16 @@
 
 # proposta de valor:
 
+![alt text](https://github.com/rtof83/tex-time2/blob/main/files/proposta.jpg?raw=true)
+
 - promessa -> o que pretendemos entregar;
 - ser um app (de cupons) que ajuda pessoas (a que adquirir descontos) por intermédio de (interação de produtos de lojistas parceiros) sem que elas tenham que (procurar de loja em loja).
 
 &nbsp;
 
 # análise de competitividade:
+
+![alt text](https://github.com/rtof83/tex-time2/blob/main/files/competitividade.jpg?raw=true)
 
 - observar outros apps (pelo menos dois aplicativos concorrentes em que as ideias foram baseadas)
 - prós e contras;
@@ -31,6 +35,8 @@
 &nbsp;
 
 # jornada de usuário (quadro "user journey"):
+
+![alt text](https://github.com/rtof83/tex-time2/blob/main/files/journey.jpg?raw=true)
 
 - escolher pelo menos uma persona (qual objetivo, dor, expectativa e o descritivo do passo a passo);
 - levantar ideias que podem ser elaboradas para novas versões do app (ou novas features);
