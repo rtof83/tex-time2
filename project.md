@@ -8,7 +8,7 @@
 
 - [Mapa de Empatia](https://drive.google.com/drive/folders/1EJPQFSgj7BTso8r5jv6O8IuPC2nihPWJ)
 
-- [Figma](https://www.figma.com/team_invite/redeem/lDA3vcrSIdcS8eqz18Vxes)
+- [Proto.io](https://pr.to/V4BYSI/)
 
 - [Roteiro Apresentação (modelo)](https://github.com/rtof83/tex-time2/blob/main/files/Roteiro-Apresentacao.pdf)
 
