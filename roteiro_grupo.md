@@ -51,11 +51,11 @@
 
 # Apresentação:
 
-- cada integrante do grupo terá participação na apresentação;
-- elencar um nome (marca) para o grupo - [ok];
-- logo do grupo - [ok];
+- [ ] cada integrante do grupo terá participação na apresentação;
+- [ ] elencar um nome (marca) para o grupo;
+- [ ] logo do grupo;
 
-- gestão do projeto:
+- [ ] gestão do projeto:
   - ferramentas utilizadas na organização:
     - discord;
     - teams;
@@ -63,19 +63,23 @@
     - trello;
     - etc.;
 
-- exibir citação de um especialista (opcional);
+- [ ] exibir citação de um especialista (opcional);
 
 - apresentação do roteiro:
-  - o que será apresentado a seguir;
-  - quais conceitos técnicos foram utilizados;
-  - o problema do cliente (Adalberto);
+  - [ ] o que será apresentado a seguir;
+  - [ ] descrever quais conceitos técnicos foram utilizados;
+  - [ ] contar o problema do cliente (Adalberto);
 
-- personas;
-- classificações do product backlog;
-- títulos das 8 features elencadas inicialmente para a primeira sprint;
-- justificar a retirada de algumas features;
-- podem ser citados recursos que farão parte de uma próxima sprint (com justificativa);
-- protótipo;
+- [ ] apresentar personas;
+- [ ] demonstrar os grupos de classificação do product backlog;
+- [ ] apresentar títulos das 8 features elencadas inicialmente para a primeira sprint;
+- [ ] justificar a retirada de algumas features;
+- [ ] abordar uma das features tecnicamente (justificativa de valor, critérios de aceitação e história de usuário)
+- [ ] podem ser citados recursos que farão parte de uma próxima sprint (com justificativa);
+- [ ] apresentar protótipo;
+- [ ] apresentar proposta de valor;
+- [ ] apresentar análise de competitividade;
+- [ ] apresentar user journey
 
 &nbsp;
 
