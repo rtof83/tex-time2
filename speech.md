@@ -1,36 +1,37 @@
 # Roteiro Apresentação
 
-## Edvaldo (tópico A)
+## 1~5 Introdução - Edvaldo
   - texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto...
 
 
-## Renato Tadeu (tópico B)
+## 6 Persona Márcia - Renato Sousa
+ A primeira persona que pensamos tem um perfil de espírito livre, o nome dela é Márcia, tem 35 anos, é gerente financeira e por ser casada e ter 2 filhos, não tem tempo pra ficar pesquisando ofertas. Por conta disso, uma ferramenta que mostre cupons de desconto facilitaria a vida dela
+ 
+Então, por ela ter uma falta de tempo, querer otimizar esse tempo, planejar melhor as compras e ter uma facilidade pra encontrar cupons, pensamos nas funcionalidades de filtro de categorias e lojas e notificação de cupons, tanto pelo próprio app, quanto por email, assim ela só olharia lojas de seu interesse e poderia visualizar cupons sem precisar ficando abrindo o app. 
+
+## 7 Persona Marcos - Guilherme
   - texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto...
 
 
-## Kaue (tópico C)
+## 8 Persona Rogério - Matheus
   - texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto...
 
 
-## Renato Sousa (tópico D)
+## 9~11 Demonstrar product backlog e features da sprint - Edlaine
   - texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto...
 
 
-## Carolina Bastos (tópico E)
+## 12~14 Abordar uma das features tecnicamente - Kaue
   - texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto...
 
 
-## Guilherme Ferreira (tópico F)
+## 15 Protótipo - Carolina
   - texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto...
 
 
-## Gustavo Steiner (tópico G)
+## 16~21 Análise de Competitividade - Gustavo
   - texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto...
 
 
-## Matheus Vincius (tópico H)
-  - texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto...
-
-
-## Edlaine (tópico I)
+## 22~26 Jornada do Usuário - Renato Tadeu
   - texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto...
