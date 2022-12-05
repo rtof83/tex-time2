@@ -34,7 +34,7 @@ Então, por ela ter uma falta de tempo, querer otimizar esse tempo, planejar mel
 
 
 ## 22~26 Jornada do Usuário - Renato Tadeu
- A feature escolhida foi "níveis de usuário":
+ A feature escolhida foi "níveis de usuário" (a partir slide 18):
 
 - À medida que o usuário se torna mais ativo na plataforma, seu nível evolui e ele obtém mais funcionalidades e/ou melhores descontos, estimulando, assim, a utilização da plataforma.
 
@@ -49,7 +49,7 @@ Então, por ela ter uma falta de tempo, querer otimizar esse tempo, planejar mel
 - como objetivo: o usuário irá obter cupons para aplicar em produtos de lojas parceiras;
 - e assim obter descontos reais na hora da compra;
 
-Jornada:
+Jornada (a partir slide 21):
 
 - o usuário baixa o app;
 - na tela inicial pesquisa pelos cupons do dia;
