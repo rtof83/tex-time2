@@ -1,7 +1,47 @@
 # Roteiro Apresentação
 
 ## 1~5 Introdução - Edvaldo
-  - texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto...
+  Olá, bom dia a todos!
+
+Sou Edvaldo Cabral, faço parte da Descontex.
+
+Nossa squad é formada por 
+
+Renato Tadeu (Product Owner)
+Carolina Bastos (Scrum Master)
+Edlaine D’Oliveira
+Edvaldo Cabral
+Guilherme Ferreira
+Gustavo Steiner
+Kaue Cardinalli
+Matheus Vinicius
+Renato Sousa
+
+Para gerir o projeto, utilizamos
+
+Discord e WhatsApp para as reuniões e compartilhamento de informações 
+Documentamos todo o projeto no Trello GitHub
+E utilizamos o Proto.io para criar nosso prototipo 
+
+O que será apresentado:
+
+Funcionalidades propostas pelo time da DesconTEX para suprir a demanda do CEO Adalberto.
+
+Utilizamos a metodologia Scrum para gerir o projeto junto com os conceitos do UX Design como:
+1 - Pesquisa de Usuário – para conhecer e entender quais as dores dos usuário que irão utilizar o aplicativo
+2 - Fizemos Análises para identificar oportunidades, além do que estava sendo proposto.
+3 - Prototipação da ideia em etapas de descoberta e definição.
+
+Qual o problema do nosso cliente:
+Adalberto, CEO da empresa, deseja criar um aplicativo de cupons para seus clientes obterem descontos 
+reais nas lojas parceiras.
+
+Como proposta de valor:
+Ser um Aplicativo que oferece cupons de descontos para qualquer usuário que o utilizar,
+conectado mediante uma identificação ou não, e que deseja economizar dinheiro aplicando 
+descontos reais no momento de finalizar suas compras nas plataformas das lojas parceiras.
+
+Agora o Renato Sousa vai falar sobre nossas personas
 
 
 ## 6 Persona Márcia - Renato Sousa
