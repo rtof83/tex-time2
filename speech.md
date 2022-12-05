@@ -40,13 +40,12 @@ Então, por ela ter uma falta de tempo, querer otimizar esse tempo, planejar mel
 
 - nos critérios de aceitação:
 - o usuário quer mais vantagens ao utilizar cupons;
-- ele realizar o cadastro no app e utiliza cupons para passar de nível;
-- a cada nível ele adquire mais vantagens
-
+- ele realiza o cadastro no app e utiliza cupons para passar de nível;
+- e a cada nível ele adquire mais vantagens;
 
 - como descritivo: o usuário quer ganhar benefícios ao utilizar cupons;
-- a justificativa: o usuário é então motivado através de níveis (ou etapas) a acessar o app para adquirir vantagens;
-- como objetivo: o usuário irá obter cupons para aplicar em produtos de lojas parceiras;
+- a justificativa: é que ele é então motivado através de níveis (ou etapas) a acessar o app para adquirir vantagens;
+- como objetivo: o usuário irá obter cupons para ser aplicado em produtos de lojas parceiras;
 - e assim obter descontos reais na hora da compra;
 
 Jornada (a partir slide 21):
@@ -58,15 +57,14 @@ Jornada (a partir slide 21):
 
 - ao realizar login, ele já adquire o emblema Nível 1;
 - assim ele poderá visualizar o histórico de cupons assim como os cupons desbloqueados;
-- ainda poderá obter descontos, favoritar cupons, compartilhar com amigos e receber vouchers;
+- e ainda poderá obter descontos, favoritar cupons, compartilhar com amigos e receber vouchers;
 
 - gerando o cupom, ele será redirecionado para a loja específica com o desconto aplicado ao produto;
 - ele então finaliza a compra na loja parceira e poderá, assim, visualizar os cupons utilizados no histórico do aplicativo;
-
 - caso o cupom não seja gerado, o usuário poderá, através do ícone coração, favoritar o cupom para uso posterior, assim como compatilhar, como veremos a seguir;
 
 - ao ativar 5 cupons, o usuário obtém o emblema Nível 2;
 - assim poderá compartilhar com os amigos através de links de redes sociais;
 
 - ao ativar 15 cupons, o usuário obtém o o emblema Nível 3;
-- neste nível, ele será premiado com um voucher de R$ 50,00
+- neste nível, ele será premiado com um voucher de R$ 50,00;
