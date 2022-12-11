@@ -6,7 +6,7 @@
 
 > ## Integrantes:
 > - Carolina Bastos
-> - Edlaine D’Oliveira
+> - Edlaine D'Oliveira
 > - Edvaldo Cabral
 > - Guilherme Ferreira
 > - Gustavo Steiner

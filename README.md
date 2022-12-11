@@ -2,15 +2,15 @@
 
 ## Colaboradores:
 
-- [Edvaldo](https://github.com/edcabralc)
-- [Renato Tadeu](https://github.com/rtof83)
-- [Kaue](https://github.com/kauecardinalli)
-- [Renato Sousa](https://github.com/Notare)
-- [Carolina](https://github.com/bastoscarolina)
+- [Carolina Bastos](https://github.com/bastoscarolina)
+- [Edlaine D'Oliveira](https://github.com/edlainex)
+- [Edvaldo Cabral](https://github.com/edcabralc)
 - [Guilherme Ferreira](https://github.com/devguiferreira)
 - [Gustavo Steiner](https://github.com/GustaSteiner)
+- [Kaue Cardinalli](https://github.com/kauecardinalli)
 - [Matheus Vincius](https://github.com/MatheusVinicius01)
-- [Edlaine](https://github.com/edlainex)
+- [Renato Tadeu](https://github.com/rtof83)
+- [Renato Sousa](https://github.com/Notare)
 
 
 ## Tecnologias
